@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "offlinesync": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "fake-indexeddb": "^6.2.4",
+    "node-localstorage": "^3.0.5"
+  }
+}
